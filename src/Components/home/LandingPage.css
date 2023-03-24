@@ -1,0 +1,42 @@
+.button {
+    display: flex;
+    flex-wrap: column;
+    justify-content: space-evenly;
+}
+
+.create__button {
+    width: 600px;
+    height: 350px;
+    background-image: url('https://legendary-digital-network-assets.s3.amazonaws.com/geekandsundry/wp-content/uploads/2019/04/MOTW-Front-Cover.jpg');
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: white 1px 0 10px;
+}
+
+.character__button {
+    width: 600px;
+    height: 350px;
+    background-image: url('https://c3.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,w_695,g_auto,q_auto,dpr_2.6,f_auto,h_460/zczsg8mgt7fwzj1rtryq');
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: black 1px 0 10px;
+}
+
+.intro {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.home__container {
+    margin-top: 70px;
+    color: white;
+}

@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space;
+    border-bottom: 1px solid lightblue;
+    padding: 0.5em 0 0.5em 1em;
+    margin-bottom: 2em;
+    position: fixed;
+    z-index: 11;
+    top: 0;
+    width: 100%;
+    background-color: darkcyan;
+    margin: auto;
+    background-image: url('https://cdn.wallpapersafari.com/49/27/pzhtA3.jpg');
+}
+
+.navbar__item {
+    color: black;
+    font-weight: bold;
+    flex-basis: 20%;
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+.navbar__logout {
+    margin-left: auto;
+}
+
+.navbar__link {
+    color: white;
+    background-color: darkslategrey;
+}

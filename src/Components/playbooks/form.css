@@ -1,0 +1,54 @@
+.form__container {
+    margin-top: 70px;
+  }
+  
+.submit__button {
+    color: black;
+    margin-top: 50px;
+  }
+  
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.column {
+    flex: 1;
+    min-width: 50%;
+  }
+
+input[type="text"],
+textarea[type="text"] {
+      color: black;
+  }
+  
+.special-weapon-container {
+    display: flex;
+    justify-content: space-between;
+  }
+      
+  .special-weapon-section {
+    flex-basis: calc(33% - 10px);
+  }
+
+  .playbook-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+  }  
+  
+  .playbook__card label span {
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .playbook__card label span:hover {
+    text-decoration: underline;
+  }
+  
+  .playbook-name {
+    font-size: 24px;
+  }
+  
+  
