@@ -142,8 +142,8 @@ export const About = () => {
                 Example:<br/>
             </h2>
             <h3>
-                I need to roll “manipulate someone.” That's a +Charm roll, and my<br/>
-                Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 8.<br/>
+                The Keeper to roll “manipulate someone.” That's a +Charm roll, and your<br/>
+                Charm is +1. You roll the dice and get a 2 and a 5. Your total is 1 + 2 + 5 = 8.<br/>
                 That's a partial success for manipulate someone.<br/>
             </h3>
         </div>
