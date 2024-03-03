@@ -30,17 +30,7 @@ export const About = () => {
         <div>
             <h1>The Game is a Conversation</h1>
             <h2>
-                This is an improvisational game in which you create a story together.<br/>
-                The story emerges from a conversation between the players, with the<br/>
-                Keeper describing the initial situation and the rest of the players<br/>
-                describing what their hunters do in response. This leads into an<br/>
-                ongoing back-and-forth between the Keeper and hunters, as each<br/>
-                decision and action leads to a new situation, requiring new decisions<br/>
-                about what happens next.<br/>
-                The Keeper will describe the game's world to you, and ask questions.<br/>
-                You respond to that world (with descriptions, and moves when they<br/>
-                are called for), and answer those questions. Keep your agenda in mind<br/>
-                as you do it.<br/>
+
             </h2>
         </div>
         <div>
