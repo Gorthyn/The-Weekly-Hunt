@@ -30,25 +30,23 @@ export const About = () => {
         <div>
             <h1>The Game is a Conversation</h1>
             <h2>
-
+            This is an improvisational game in which you create a story together.<br/>
+                The story emerges from a conversation between the players, with the<br/>
+                Keeper describing the initial situation and the rest of the players<br/>
+                describing what their hunters do in response. This leads into an<br/>
+                ongoing back-and-forth between the Keeper and hunters, as each<br/>
+                decision and action leads to a new situation, requiring new decisions<br/>
+                about what happens next.<br/>
+                The Keeper will describe the game's world to you, and ask questions.<br/>
+                You respond to that world (with descriptions, and moves when they<br/>
+                are called for), and answer those questions. Keep your agenda in mind<br/>
+                as you do it.<br/>
             </h2>
         </div>
         <div>
             <h1>Moves</h1>
             <h2>
-                Hunters make moves to find the monster, and to kill it. Moves are<br/>
-                moments of danger and uncertainty. You never know quite how they'll<br/>
-                turn out.<br/>
-                Your hunter's moves cover all the things you can do where the game's<br/>
-                rules get involved in the story.<br/>
-                Most of the time, you'll be describing what your hunter says, where<br/>
-                they go, or what they do without activating a move. That goes for<br/>
-                everything that a normal person could do, in situations where failure<br/>
-                would not be interesting and where there's no particular danger.<br/>
-                In circumstances where a normal person couldn't do what you want to<br/>
-                do, or the drama of the story requires it, or it's dangerous, that's when<br/>
-                the moves come in and control how well you do.<br/>
-                Here are some examples:<br/>
+
             </h2>
             <h3>
                 Archer is checking out the site of a monster attack. There's blood and<br/>
